@@ -1,6 +1,6 @@
 Hi, I’m Fuad
-Interested in Competitive Programming
-Currently learning C++,Java
+,Interested in Competitive Programming
+,Currently learning C++,Java
 
 
 <!---
