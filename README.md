@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @failureInVein //Fuad
-- 👀 I’m interested in Competitive Programming
-- 🌱 I’m currently learning C++,Java
-- 💞️ I’m looking to collaborate on Coding
+Hi, I’m Fuad
+Interested in Competitive Programming
+Currently learning C++,Java
+
 
 <!---
 failureInVein/failureInVein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
