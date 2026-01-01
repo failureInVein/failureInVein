@@ -43,11 +43,12 @@ I’m actively:
 ---
 
 ## 📫 Let’s Connect
-📮 Email: your.email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/your-link  
+📮 Email: ug2102067@cse.pstu.ac.bd  
+🔗 LinkedIn: https://www.linkedin.com/in/mohammad-farhadul-haque-fuad-307296281/  
 🌐 Portfolio: https://yourportfolio.dev (or coming soon!)
 
 ---
 
 ## ⚡ GitHub Stats
-![Fuad’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Fuad’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=failureInVein&show_icons=true&theme=radical)
+)
