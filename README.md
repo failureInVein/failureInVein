@@ -49,6 +49,7 @@ I’m actively:
 
 ---
 
-## ⚡ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=failureInVein&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=failureInVein&show_icons=true&hide_title=true" />
+
 
